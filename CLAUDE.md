@@ -275,6 +275,8 @@ Identity is automatic — captures are stamped `captured_by: cody` via the URL-p
 
 # ADHDesigns Branding
 
+Default to the following colors and fonts when a specific palette or font set is not provided.
+
 ## Colors (landing pages, UI theming) — "zine × new-wave" repaint:
 - Olive: #7C8449
 - Indigo-Deep (dark bg slot): #241D38
@@ -300,4 +302,4 @@ Token slot names (`--adhd-olive`, `--adhd-teal`, etc.) are unchanged from the pr
 - **Monospace**: Geist Mono (`--font-geist-mono`), via `next/font/google`.
 
 ## Voice:
-Follow the branding voice guidelines: /Users/nae/.claude/brand-voice-guidelines.md
+Follow the branding voice guidelines: ~/.claude/brand-voice-guidelines.md
